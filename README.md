@@ -1,6 +1,6 @@
 # MaxLVL - 3ds Max Level Editor inspired by Trenchbroom
 
-A level editing toolkit for Autodesk 3ds Max that provides entity placement, per-face texture management, and export to Godot Engine via FBX and JSON sidecar files.
+A level editing toolkit for Autodesk 3ds Max that provides entity placement, per-face texture management, and export to game engines via FBX and JSON sidecar files.
 
 Built as a Python plugin using PySide6 for the UI and pymxs for 3ds Max integration.
 
