@@ -4,6 +4,8 @@ A level editing toolkit for Autodesk 3ds Max that provides entity placement, per
 
 Built as a Python plugin using PySide6 for the UI and pymxs for 3ds Max integration.
 
+[![Video Demo](MaxLVLThumbnail.png)](https://www.youtube.com/watch?v=sBmkIkmrqs4)
+
 ## Features
 
 - **Entity System**: Define entity templates with typed fields (string, float, int, bool, trigger ID, trigger reference). Place entities interactively in the viewport or spawn them at the origin. Entities are stored as 3ds Max Point helpers with custom attributes and user properties.
